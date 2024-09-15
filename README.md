@@ -1,4 +1,4 @@
-# Age Prediction Using Health and Lifestyle Factors
+# Age Prediction through Health and Lifestlye Data: Supervised ML Approach
 
 ## Description
 This project aims to predict a person’s age based on their health and lifestyle metrics using a supervised machine learning model. 
